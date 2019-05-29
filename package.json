@@ -1,0 +1,15 @@
+{
+  "name": "163-songmenu-download",
+  "version": "1.0.0",
+  "description": "使用nodejs批量下载网易云 歌单/我喜欢的音乐 歌曲",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sherwin",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.88.0",
+    "single-line-log": "^1.1.2"
+  }
+}
